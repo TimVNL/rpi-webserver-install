@@ -1,0 +1,10 @@
+root:root   644   /var/www/index.html
+root:root   644   /var/www/404.html
+root:root   644   /var/www/50x.html
+root:root   755   /srv
+root:root   755   /srv/default
+root:root   755   /srv/default/cfg
+root:root   755   /srv/default/log
+root:root   755   /srv/default/www
+root:root   644   /srv/default/log/access.log
+root:root   644   /srv/default/log/error.log

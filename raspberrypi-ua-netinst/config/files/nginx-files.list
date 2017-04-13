@@ -1,0 +1,4 @@
+root:root   755   /etc/nginx
+root:root   755   /etc/nginx/conf.d
+root:root   644   /etc/nginx/conf.d/10-ssl.conf
+root:root   644   /etc/nginx/conf.d/20-gzip.conf
